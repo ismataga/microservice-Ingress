@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ingress</groupId>
-    <artifactId>Microservice-Ingress</artifactId>
+    <artifactId>microservice-Ingress</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Microservice-Ingress</name>
     <description>Microservice-Ingress</description>
