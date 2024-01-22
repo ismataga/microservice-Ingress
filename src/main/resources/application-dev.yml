@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+config:
+  names:
+     k1: Qulu
+     k2: Elvin
+     k3: Shemsi
+
+name: Elxan
