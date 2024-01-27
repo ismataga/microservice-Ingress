@@ -13,4 +13,9 @@ public class StudentService {
         System.out.println(name);
         return name;
     }
+
+    public String getStudent(String name) {
+        System.out.println(name);
+        return name;
+    }
 }
